@@ -1,0 +1,21 @@
+Age,Education,Experience,JobRole,Location,PreviousSalary,Salary
+21,Bachelors,0,Intern,Delhi,180000,250000
+22,Bachelors,1,Junior Developer,Mumbai,250000,350000
+23,Bachelors,1,Data Analyst,Delhi,280000,400000
+24,Masters,2,Data Analyst,Bangalore,400000,550000
+25,Bachelors,2,Software Engineer,Pune,420000,600000
+26,Masters,3,Software Engineer,Bangalore,550000,750000
+27,Bachelors,3,Web Developer,Delhi,450000,650000
+28,Masters,4,Data Scientist,Mumbai,700000,950000
+29,Bachelors,4,Software Engineer,Hyderabad,650000,850000
+30,Masters,5,Data Scientist,Bangalore,850000,1150000
+31,Bachelors,5,Software Engineer,Pune,750000,1000000
+32,Masters,6,AI Engineer,Delhi,950000,1300000
+33,Masters,6,Data Scientist,Mumbai,1000000,1400000
+34,Bachelors,7,Software Engineer,Bangalore,1100000,1450000
+35,Masters,7,AI Engineer,Hyderabad,1200000,1600000
+36,Masters,8,Data Scientist,Pune,1300000,1750000
+37,Bachelors,8,Software Engineer,Delhi,1400000,1800000
+38,Masters,9,AI Engineer,Mumbai,1500000,2000000
+40,Masters,10,Data Scientist,Bangalore,1800000,2400000
+42,Masters,12,AI Engineer,Delhi,2200000,3000000
